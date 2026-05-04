@@ -1,8 +1,9 @@
 fastapi
-uvicorn
-python-multipart
-numpy
+uvicorn[standard]
 joblib
+numpy
+tensorflow
 scikit-learn
-tensorflow-cpu
-h5py
+langdetect
+requests
+python-multipart
